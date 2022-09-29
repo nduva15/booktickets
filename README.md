@@ -5,6 +5,15 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This ticket booking app covers Flutter. We start from very simple ui like drawing text to complex layout using stack and mixture of column and row widget.
+We also built reusable widget to reduce code amount. 
+1. reusable style component
+2. reusable color pallet
+3. reusable column widget
+4. reusable layout builder widget
+5. reusable column widget
+6. reusable row widget
+7. reusable ticket widget
 
 A few resources to get you started if this is your first Flutter project:
 
