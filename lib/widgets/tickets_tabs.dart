@@ -24,8 +24,8 @@ class AppTicketTabs extends StatelessWidget {
     airline tickets
              */
             Container(
-              width: size.width*.44,
-              padding: EdgeInsets.symmetric(vertical: AppLayout.getHeight(7)),
+              width: size.width*0.44,
+              padding: EdgeInsets.symmetric(vertical: AppLayout.getHeight(2)),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.horizontal(left: Radius.circular(AppLayout.getHeight(50)),),
                 color:  Colors.white,
@@ -39,8 +39,8 @@ class AppTicketTabs extends StatelessWidget {
             /*hotels
        */
             Container(
-              width: size.width*.44,
-              padding: EdgeInsets.symmetric(vertical: AppLayout.getHeight(7)),
+              width: size.width*0.44,
+              padding: EdgeInsets.symmetric(vertical: AppLayout.getHeight(2)),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.horizontal(right: Radius.circular(AppLayout.getHeight(50)),),
                 color:  Colors.transparent,
